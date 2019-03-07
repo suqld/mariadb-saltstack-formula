@@ -1,6 +1,6 @@
 
 include:
-    - maxscale.repo_installed
+    - maxscale_2_2.repo_installed
 
 maxscale_installed:
     pkg.installed:

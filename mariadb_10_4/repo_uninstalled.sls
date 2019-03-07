@@ -1,4 +1,4 @@
 
 repo_uninstalled:
     pkgrepo.absent:
-        - name: MaxScale
+        - name: MariaDB10.4
